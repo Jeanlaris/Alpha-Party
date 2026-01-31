@@ -14,3 +14,12 @@
     </tr>
   </table>
 </div>
+
+<div align="center" style="margin-top: 30px;">
+  <a href="https://buy.stripe.com/7sI7uM1R5a065uE3cc" target="_blank" style="text-decoration: none;">
+    <button style="background: linear-gradient(45deg, #ff00ff, #00f2ff); color: white; padding: 20px 40px; font-size: 22px; font-weight: bold; border: none; border-radius: 50px; cursor: pointer; box-shadow: 0 0 25px #ff00ff; font-family: 'Courier New', monospace; text-transform: uppercase;">
+      ⚡ FINANCIAR EVOLUÇÃO (STRIPE) ⚡
+    </button>
+  </a>
+  <p style="color: #00f2ff; margin-top: 15px; font-family: 'Courier New', monospace;">Soberania Cognitiva | Pagamento Seguro via Stripe</p>
+</div>
